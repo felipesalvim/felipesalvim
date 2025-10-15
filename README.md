@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Felipe Silva Alvim | Desenvolvedor Front-end & Estrategista de UX 🚀</h1>
+  <h1>Felipe Silva Alvim | Desenvolvedor Front-end | Marketing e Vendas 🚀</h1>
   
   <p>Construindo interfaces <strong> perfomáticas e acessíveis</strong> que entregam <strong>resultados de negócio</strong>.</p>
   <p>Especialista em Front-end, em transição de aprendizado para o desenvolvimento Full-Stack.</p>
