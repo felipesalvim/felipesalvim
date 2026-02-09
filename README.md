@@ -24,7 +24,6 @@ Minha carreira é moldada pela união do código com a estratégia comercial. Is
 
 | Empresa | Função Principal | Impacto & Conhecimento Adquirido |
 | :--- | :--- | :--- |
-| 🧑‍💻 **Nexus Innova** | **Desenvolvedor Front-end** | **Foco Técnico:** Implementação de soluções de *single-page application* (SPA) com ênfase em *state management* e otimização de *bundle size* para performance web. |
 | 📈 **Omega Elevadores**| **Marketing e Vendas** | **Visão de Negócio:** Conhecimento prático em funis de venda e na importância da **Primeira Impressão Visual** (UX) para a decisão de compra. |
 
 ---
