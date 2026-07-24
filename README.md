@@ -148,23 +148,6 @@ Projetos com foco em **usabilidade, conversão e problema real de negócio**.
 
 ---
 
-### 📊 Consistência e Engajamento
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesalvim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvim&layout=compact&theme=buefy" alt="Linguagens mais usadas"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipesalvim&theme=buefy&no-frame=true&row=1&column=7" alt="Troféus do GitHub"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/felipesalvim/felipesalvim/output/github-contribution-grid-snake.svg" alt="Snake animation das contribuições" />
-</div>
-
----
-
 ### 🤝 Vamos conversar?
 
 Estou **aberto a oportunidades** como Desenvolvedor Front-end (remoto ou em Fortaleza/CE) e também a projetos freelance de sites e sistemas.
