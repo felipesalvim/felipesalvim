@@ -42,9 +42,7 @@
 | Idioma | Nível |
 | :--- | :--- |
 | 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Intermediário (leitura técnica e comunicação profissional) |
-
-> Ajuste o nível de inglês se preferir (Básico / Intermediário / Avançado / Fluente).
+| 🇺🇸 Inglês (B2) | Intermediário (leitura técnica e comunicação profissional) |
 
 ---
 
@@ -100,9 +98,7 @@ Aprofundando Back-end para entregar soluções ponta a ponta:
 
 | Plataforma / Curso | Foco | Status |
 | :--- | :--- | :--- |
-| *(adicione aqui: Alura, Rocketseat, freeCodeCamp, etc.)* | Front-end / Full-Stack | Em atualização |
-
-> Substitua esta linha pelos cursos que você realmente concluiu — isso aumenta muito a credibilidade.
+| *(atualizarei mais tarde)* | Front-end / Full-Stack | Em atualização |
 
 ---
 
