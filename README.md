@@ -117,8 +117,8 @@ ERP, e-commerce, APIs de pagamento e soluções full-stack orientadas a problema
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipesalvim&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5&bg_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvim&layout=compact&theme=default&hide_border=true&title_color=0077B5&bg_color=FFFFFF&cache_seconds=86400" alt="Top Languages" width="320"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=felipesalvim&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5&bg_color=FFFFFF" alt="GitHub Stats" width="420"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=felipesalvim&layout=compact&theme=default&hide_border=true&title_color=0077B5&bg_color=FFFFFF" alt="Top Languages" width="320"/>
 </p>
 
 ---
