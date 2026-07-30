@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0077B5&text=Felipe%20Silva%20Alvim&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Front-end%20%7C%20UX%20%26%20Conversion%20%7C%20Full-Stack&descSize=14&descAlignY=55&section=header" width="100%" alt="Felipe Silva Alvim"/>
-
   <img src="https://github.com/felipesalvim.png" width="110" height="110" alt="Avatar Felipe Alvim"/>
 
-  <h1>Desenvolvedor Front-end</h1>
+  <h1>Felipe Silva Alvim</h1>
+  <h3>Desenvolvedor Front-end</h3>
   <p><strong>Interfaces performáticas · acessíveis · orientadas a conversão</strong></p>
 
   <p>
@@ -132,7 +131,3 @@ Aberto a oportunidades como **Desenvolvedor Front-end** (remoto ou Fortaleza/CE)
   <a href="mailto:contato@felipealvim.com.br"><img src="https://img.shields.io/badge/Email-Enviar_mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://wa.me/5585998261414"><img src="https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0077B5&section=footer" width="100%" alt=""/>
-</div>
