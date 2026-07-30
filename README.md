@@ -1,76 +1,38 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1E26,100:0077B5&height=180&section=header&text=Felipe%20Silva%20Alvim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20%7C%20Neg%C3%B3cios%20%7C%20Full-Stack%20em%20evolu%C3%A7%C3%A3o&descSize=16&descAlignY=55" alt="Banner Felipe Silva Alvim"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1E26,100:0077B5&height=180&section=header&text=Felipe%20Silva%20Alvim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20%7C%20UX%20%26%20Convers%C3%A3o%20%7C%20Full-Stack%20em%20evolu%C3%A7%C3%A3o&descSize=15&descAlignY=55" alt="Banner Felipe Silva Alvim"/>
   <br/>
-  <img src="https://github.com/felipesalvim.png" width="120" height="120" alt="Avatar Felipe Alvim" style="border-radius:50%;"/>
-  <br/><br/>
+  <img src="https://github.com/felipesalvim.png" width="110" height="110" alt="Avatar Felipe Alvim" style="border-radius:50%;"/>
 
-  <h1>Desenvolvedor Front-end | Marketeiro e Vendedor 🚀</h1>
-
-  <p>Construindo interfaces <strong>performáticas e acessíveis</strong> que entregam <strong>resultados de negócio</strong>.</p>
-  <p>Especialista em Front-end, em transição para o desenvolvimento Full-Stack.</p>
-  <p>🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Faculdade CDL</strong> — Fortaleza/CE (2026).</p>
-  <p>📍 Fortaleza/CE · 💼 Aberto a oportunidades <strong>Front-end</strong> (remoto ou híbrido)</p>
+  <h1>Desenvolvedor Front-end</h1>
+  <p><strong>Interfaces performáticas · acessíveis · orientadas a conversão</strong></p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=felipesalvim&label=Visitantes&color=0077B5&style=for-the-badge" alt="Contador de visitantes"/>
+    <a href="https://www.linkedin.com/in/felipesalvim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:contato@felipealvim.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://felipealvim.com.br/"><img src="https://img.shields.io/badge/Portfólio-1C1E26?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/></a>
+    <a href="https://wa.me/5585998261414"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  </p>
+
+  <p>📍 Fortaleza/CE · 💼 Aberto a oportunidades <strong>Front-end</strong> (remoto ou híbrido)</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=felipesalvim&label=Profile%20views&color=0077B5&style=flat-square" alt="Profile views"/>
   </p>
 </div>
 
 ---
 
-### 📞 Contato Imediato e Networking
+## Sobre mim
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipesalvim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:contato@felipealvim.com.br" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://felipealvim.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-1C1E26?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/></a>
-  <a href="https://wa.me/5585998261414" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
+Formado em **Análise e Desenvolvimento de Sistemas** pela **Faculdade CDL** (Fortaleza/CE, 2026).  
+Atuo como **Front-end** com background em **marketing e vendas** — o que me permite construir interfaces com foco em **clareza, performance e resultado de negócio**, não só em aparência.
 
----
+Hoje entrego sites, landing pages e sistemas web; estou expandindo para **Full-Stack** (Node.js, APIs REST, PostgreSQL) para atuar ponta a ponta.
 
-### 🎓 Formação Acadêmica
-
-| Instituição | Curso | Status |
-| :--- | :--- | :--- |
-| 🏫 **Faculdade CDL** (Fortaleza/CE) | **Análise e Desenvolvimento de Sistemas** | ✅ **Formado em 2026** |
+**O que busco:** vaga de Desenvolvedor Front-end (remoto ou híbrido em Fortaleza) ou projetos freelance com impacto real.
 
 ---
 
-### 🌐 Idiomas
-
-| Idioma | Nível |
-| :--- | :--- |
-| 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês (B2) | Intermediário (leitura técnica e comunicação profissional) |
-
----
-
-### 💼 Minha Trajetória & Diferencial Competitivo
-
-Minha carreira une **código** e **estratégia comercial**. Isso me permite desenvolver interfaces que não apenas parecem boas, mas que são projetadas para **maximizar conversão e engajamento**.
-
-| Empresa / Contexto | Função Principal | Impacto & Conhecimento Adquirido |
-| :--- | :--- | :--- |
-| 📈 **Ômega Elevadores** | Marketing, Vendas e presença digital | Visão de funil de vendas, SEO e da **primeira impressão visual (UX)** na decisão de compra. Site institucional focado em autoridade digital. |
-| 💻 **Felipe Alvim — Soluções Digitais** (Freelance) | Front-end, sites e marketing digital | Entrega de sites institucionais, landing pages, SEO local e presença digital para PMEs em Fortaleza e região. |
-| 🎓 **Projetos Acadêmicos — Faculdade CDL** | Desenvolvimento de sistemas | Experiência prática com ERP, e-commerce, APIs de pagamento e soluções full-stack orientadas a problema real. |
-
----
-
-### 🛠️ Proficiência Técnica (Tech Stack)
-
-Sou especialista no ecossistema moderno do Front-end e estou expandindo para Full-Stack.
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `HTML5`, `CSS3`, `JavaScript` (ES6+), `TypeScript` |
-| **Front-end** | `React`, Bibliotecas de UI (`Material UI` / `Bootstrap` / `Tailwind CSS`) |
-| **Estilização** | `CSS3`, Pré-processadores (`Sass` / `LESS`) |
-| **Build & Tooling** | `Vite`, `Git` (Git Flow + Conventional Commits) |
-| **Design & Colaboração** | `Figma`, `Zeplin` |
-| **Qualidade** | Foco em **Core Web Vitals**, acessibilidade (**WCAG / A11Y**) e código manutenível |
-| **Também já utilizei** | `PHP` + `MySQL` (e-commerce/gestão), `Android` nativo (app mobile) |
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -83,74 +45,111 @@ Sou especialista no ecossistema moderno do Front-end e estou expandindo para Ful
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 🌱 Em Transição: Rumo ao Full-Stack
+| Área | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
+| **Front-end** | React, Tailwind CSS, Material UI, Bootstrap |
+| **Estilo & Design** | Sass/LESS, Figma, Zeplin · fidelidade ao design |
+| **Tooling** | Vite, Git (fluxo estruturado + Conventional Commits) |
+| **Qualidade** | Core Web Vitals, acessibilidade (WCAG), código manutenível |
+| **Experiência adicional** | PHP + MySQL, Android nativo |
 
-Aprofundando Back-end para entregar soluções ponta a ponta:
+### Em evolução — Full-Stack
 
-* **Linguagens:** `Node.js` + `Express` / `Python` (`Django` / `Flask`)
-* **Bancos de Dados:** `PostgreSQL` e `MongoDB`
-* **Conceitos:** APIs RESTful, autenticação `JWT`
-* **Testes (em evolução):** `Jest` e `Testing Library`
-
----
-
-### 📜 Certificações & Cursos
-
-| Plataforma / Curso | Foco | Status |
-| :--- | :--- | :--- |
-| *(atualizarei mais tarde)* | Front-end / Full-Stack | Em atualização |
+Node.js · Express · Python (Django/Flask) · PostgreSQL · MongoDB · APIs REST · JWT · Jest / Testing Library
 
 ---
 
-### 💡 Filosofia de Entrega (Código com Visão de Negócio)
+## Projetos em destaque
 
-1. **Core Web Vitals** — Performance (*FCP*, *LCP*) para retenção e SEO.
-2. **Modularidade & Manutenção** — Design Systems e padrões para escalar com o time.
-3. **Acessibilidade (A11Y)** — Diretrizes WCAG para alcance e conformidade.
-4. **Fidelidade ao Design** — Colaboração com `Figma` / `Zeplin` (*pixel-perfect*).
+Casos com problema de negócio claro, stack e resultado — ideais para conversa técnica em entrevista.
 
----
+### 1. Nexus Contábil ERP
+ERP + portal do cliente para contabilidades e PMEs (incluindo Terceiro Setor): tributação, chamados e gestão operacional.
 
-### 🚀 Projetos em Destaque
+| | |
+| :--- | :--- |
+| **Stack** | Web full-stack · motor tributário (RPA) · validação criptográfica de documentos |
+| **Resultado** | Plataforma completa de ERP com portal do cliente |
+| **Links** | [Repositório](https://github.com/felipesalvim/nexus-contabil-erp) |
 
-Projetos com foco em **usabilidade, conversão e problema real de negócio**.
+### 2. Adega Select — App + Gestão
+E-commerce mobile com Pix, painel de gestão e rastreabilidade de produtos para uma adega.
 
-#### 1. Nexus Contábil ERP
-**Problema:** Contabilidades e PMEs (incluindo Terceiro Setor) precisam de um ERP com portal do cliente, tributação e gestão de chamados.  
-**Stack:** Sistema web full-stack · motor tributário (RPA) · validação criptográfica de documentos  
-**Resultado:** Plataforma completa de ERP + portal do cliente para contabilidade estratégica.  
-🔗 [Repositório](https://github.com/felipesalvim/nexus-contabil-erp)
+| | |
+| :--- | :--- |
+| **Stack** | Android nativo · PHP + MySQL · Mercado Pago (Pix) · hash SHA-256 para rastreio |
+| **Resultado** | App de vendas + sistema de gestão com pagamento e rastreio |
+| **Links** | [App Android](https://github.com/felipesalvim/AdegaSelect) · [Gestão](https://github.com/felipesalvim/AdegaSelectSiteGestao) |
 
-#### 2. Adega Select (App + Gestão)
-**Problema:** Adega precisava vender online com pagamento Pix, atendimento automatizado e rastreabilidade.  
-**Stack:** Android nativo · PHP + MySQL · Mercado Pago (Pix) · Blockchain (SHA-256)  
-**Resultado:** E-commerce mobile + painel de gestão com pagamento e rastreio de produtos.  
-🔗 [App Android](https://github.com/felipesalvim/AdegaSelect) · [Sistema de Gestão](https://github.com/felipesalvim/AdegaSelectSiteGestao)
+### 3. Site Institucional — Ômega Elevadores
+Presença digital para empresa técnica, com SEO e foco em primeira impressão comercial.
 
-#### 3. Site Institucional — Ômega Elevadores
-**Problema:** Empresa técnica sem autoridade digital forte nas buscas.  
-**Stack:** Site institucional + SEO · foco em performance e conversão  
-**Resultado:** Presença digital profissional com site otimizado para ranqueamento e primeira impressão comercial.  
-🔗 [Portfólio / cases](https://felipealvim.com.br/)
+| | |
+| :--- | :--- |
+| **Stack** | Site institucional · SEO · performance e conversão |
+| **Resultado** | Site profissional otimizado para busca e autoridade digital |
+| **Links** | [Portfólio / cases](https://felipealvim.com.br/) |
 
 <details>
-<summary>📦 Outros projetos</summary>
+<summary><strong>Outros projetos</strong></summary>
 
-- [Cesauto Center Car](https://github.com/felipesalvim/cesauto-center-car) — Site institucional para oficina mecânica em Fortaleza/CE  
-- [CineVault](https://github.com/felipesalvim/CineVault) — Cadastro de filmes/séries em Java com avaliações  
-- [Leader Consultoria / Brena Brûlée](https://felipealvim.com.br/) — Cases de site corporativo e cardápio digital no portfólio  
+- [Cesauto Center Car](https://github.com/felipesalvim/cesauto-center-car) — site institucional para oficina mecânica (Fortaleza/CE)
+- [CineVault](https://github.com/felipesalvim/CineVault) — catálogo de filmes/séries em Java com avaliações
+- [Leader Consultoria / Brena Brûlée](https://felipealvim.com.br/) — cases de site corporativo e cardápio digital
 
 </details>
 
 ---
 
-### 🤝 Vamos conversar?
+## Experiência
 
-Estou **aberto a oportunidades** como Desenvolvedor Front-end (remoto ou em Fortaleza/CE) e também a projetos freelance de sites e sistemas.
+Trajetória que une **código** e **estratégia comercial** — interfaces pensadas para conversão e engajamento.
+
+| Contexto | Função | Contribuição |
+| :--- | :--- | :--- |
+| **Ômega Elevadores** | Marketing, vendas e presença digital | Funil de vendas, SEO e UX na decisão de compra; site institucional com foco em autoridade |
+| **Felipe Alvim — Soluções Digitais** | Front-end e marketing digital (freelance) | Sites, landing pages e SEO local para PMEs em Fortaleza e região |
+| **Faculdade CDL** | Projetos acadêmicos de sistemas | ERP, e-commerce, APIs de pagamento e soluções full-stack orientadas a problema real |
+
+---
+
+## Formação & idiomas
+
+| | |
+| :--- | :--- |
+| **Formação** | Análise e Desenvolvimento de Sistemas — Faculdade CDL (Fortaleza/CE) · Formado em 2026 |
+| **Português** | Nativo |
+| **Inglês** | B2 — leitura técnica e comunicação profissional |
+
+---
+
+## Como eu entrego
+
+1. **Performance** — Core Web Vitals (FCP, LCP) com impacto em SEO e retenção  
+2. **Código sustentável** — componentes reutilizáveis e padrões que o time consegue manter  
+3. **Acessibilidade** — WCAG / A11Y como requisito, não como extra  
+4. **Fidelidade ao design** — handoff com Figma/Zeplin e atenção a detalhe visual  
+
+---
+
+## GitHub
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipesalvim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn CTA"/></a>
-  <a href="https://wa.me/5585998261414" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chamar_agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp CTA"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipesalvim&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=434d58" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvim&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=434d58" height="160" alt="Top Languages"/>
+</p>
+
+---
+
+## Vamos conversar?
+
+Aberto a oportunidades como **Desenvolvedor Front-end** (remoto ou Fortaleza/CE) e a projetos freelance de sites e sistemas.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipesalvim/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:contato@felipealvim.com.br"><img src="https://img.shields.io/badge/Email-contato@felipealvim.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/5585998261414"><img src="https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 <div align="center">
